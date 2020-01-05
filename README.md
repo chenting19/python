@@ -21,4 +21,4 @@ python期末项目
 
 2. Python档描述：Python档有main.py、visualData.py，python文档实现了与html文档的数据交互，含有适当的条件判断，含有合适的数据结构嵌套，含有数据结构的循环，函数和模块简洁明了。
 
-3. web app动作描述：通过下拉选项框实现web页面之间的跳转。
+3. web app动作描述：通过选择实现web页面之间的跳转。
