@@ -14,7 +14,7 @@ python期末项目
 
 #### [代码GitHub URL](https://github.com/chenting19/python/blob/master/Flask_job.zip)
 
-#### [pythonanywhere URL]()
+#### [pythonanywhere URL](http://chenting.pythonanywhere.com/)
 
 #### 数据传递描述
 1. HTML档描述：主要有两个个HTML页面。python文档实现了与html文档的数据交互，页面通过下5个选择器进行页面之间的跳转，符合jinja2标准。
